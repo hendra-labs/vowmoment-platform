@@ -1,0 +1,6 @@
+{
+  "name": "Vowmoment Indonesia",
+  "description": "Abadikan Hari Bahagiamu dengan Undangan Digital Paling Elegan, Canggih, dan Tanpa Batas. Platform undangan pernikahan digital modern dengan smart guest customization, live RSVP, amplop digital QRIS, dan konsultasi AI 24/7.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
