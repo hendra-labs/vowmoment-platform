@@ -105,8 +105,6 @@ The easiest way to deploy your Vowmoment instance is to use the [Vercel Platform
 
 ## 📄 License
 
-Distributed under the MIT License. See LICENSE for more information.
-
 Distributed under the [MIT License](https://www.google.com/search?q=LICENSE&utm_source=gemini). See `LICENSE` for more information.
 
 ---
